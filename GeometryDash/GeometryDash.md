@@ -1,20 +1,18 @@
 # Geometry Dash 
 
- 
-
-Geometry Dash ist ein beliebtes Spiel für Handys und Tablets, das in Schweden entwickelt wurde. In dem  Spiel geht es um ein Quadrat, das über verschiedene geometrische Formen springt.  
+[Geometry Dash](https://en.wikipedia.org/wiki/Geometry_Dash) ist ein beliebtes Spiel für Handys und Tablets, das in Schweden entwickelt wurde. In dem  Spiel geht es um ein Quadrat, das über verschiedene geometrische Formen springt.  
 
 Eure Aufgabe ist es, eine einfache Variante von Geometry Dash in Scratch zu erstellen.  
 
-Die Struktur des Programms  
+## Die Struktur des Programms  
 
-Zeichnet drei Figuren. 
 
-    Eine Figur ist ein Quadrat. Das Quadrat sollte springen, wenn der Spieler auf das Feld klickt.  
+Zeichnet drei Figuren.
+- Eine Figur ist ein **Quadrat**. Das Quadrat sollte springen, wenn der Spieler auf das Feld klickt.
 
-    Eine Figur ist ein Dreieck. Die Form sollte drei verschiedene Varianten haben. Die Dreiecke sollten von rechts nach links hineingleiten. Wenn ein Dreieck den linken Rand erreicht, sollte es am rechten Rand erneut beginnen und die Variante ändern. Es sollte so aussehen, als würde es ein neues Dreieck geben.  
+- Eine Figur ist ein **Dreieck**. Die Form sollte drei verschiedene Varianten haben. Die Dreiecke sollten von rechts nach links hineingleiten. Wenn ein Dreieck den linken Rand erreicht, sollte es am rechten Rand erneut beginnen und die Variante ändern. Es sollte so aussehen, als würde es ein neues Dreieck geben.
 
-    Eine Figur mit dem Text „Du hast gewonnen!“  
+- Eine Figur mit dem **Text** „Du hast gewonnen!“
 
 Der Spieler muss das Quadrat über die Dreiecke springen lassen.  
 
@@ -22,13 +20,13 @@ Wenn das Quadrat und ein Dreieck kollidieren, sollten die Dreiecke erneut mit de
 
 Wenn der Spieler es geschafft hat, über drei Dreiecke zu springen, wird die Meldung "Du hast gewonnen!" angezeigt.  
 
-Zeichne Figuren und lass das Quadrat springen  
+## Zeichne Figuren und lass das Quadrat springen  
 
 Zeichne zunächst die drei Dreiecke!  
 
-Das Dreieck sollte drei verschiedene Varianten haben. Klickt mit der rechten Maustaste auf das Dreieck und klickt auf kopieren, um eine neue Variante zu erstellen.  
+Das Dreieck sollte drei verschiedene Varianten haben. Klickt mit der rechten Maustaste auf das Dreieck und klickt auf kopieren, um eine neue Variante zu erstellen.
 
- 
+<img src="image001-Kostuem.png" width="500" />
 
 Wenn das Programm startet, sollten das Quadrat und das Dreieck angezeigt werden. Das Dreieck sollte die erste Variante zeigen. Die Meldung „Du hast gewonnen!“ sollte beim Programmstart ausgeblendet werden.  
 
@@ -38,15 +36,14 @@ Der Spieler muss in der Lage sein, das Quadrat mit der Leertaste springen zu las
 
 Verwende beispielsweise den Code, der in der Programmieraufgabe Simple Jump beschrieben ist.  
 
-Lass das Dreieck gleiten  
+# Lass das Dreieck gleiten  
 
 Es gibt verschiedene Möglichkeiten, das Dreieck von rechts nach links zu verschieben.  
 
-Eine Möglichkeit besteht darin, den x- Wert wiederholt zu ändern. Wenn die x- Position weit genug links ist (klein genug), sollte das Dreieck die Variante ändern und am rechten Rand erneut beginnen. Gib die Werte ein, die in den weißen Feldern stehen sollen 
+Eine Möglichkeit besteht darin, den x- Wert wiederholt zu ändern. Wenn die x- Position weit genug links ist (klein genug), sollte das Dreieck die Variante ändern und am rechten Rand erneut beginnen. Gib die Werte ein, die in den weißen Feldern stehen sollen.
 
- 
+<img src="image003-Gleiten.png" width="300" />
 
- 
 
 Teste dein Programm und stelle sicher, dass du das Dreieck tatsächlich überspringen kannst!  
 
