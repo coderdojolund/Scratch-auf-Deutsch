@@ -103,5 +103,5 @@ Anstatt Leben zu zählen, kannst du Versuche zählen. Gebt eine Variable <img sr
 ein, die 1 ist wenn das Programm startet. Zähle jedes Mal <img src="image016-Versuche.png" width="65" />
 hoch, wenn das Spiel erneut beginnt. Zeige an, wie viele Versuche erforderlich waren, bis der Spieler schließlich gewonnen hat! 
 
-- Copyright 2019 Malin Christersson. http://cmc.education/scratch/tasks/geometryDash.php 
-- Übersetzung 2021: Johannes Döllinger, Robert Storlind
+[Copyright 2019 Malin Christersson](http://cmc.education/scratch/tasks/geometryDash.php)
+• Übersetzung 2021: Johannes Döllinger, Robert Storlind
