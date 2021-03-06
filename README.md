@@ -16,4 +16,5 @@
 * Einfache Sprünge: translation ongoing
 * 
 
-TODO: Wir brauchen hier einige Bilder
+### TODO
+* Wir brauchen hier einige Bilder
