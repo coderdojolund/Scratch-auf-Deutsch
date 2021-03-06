@@ -15,3 +15,5 @@
 * Frogger: translation ongoing
 * Einfache Sprünge: translation ongoing
 * 
+
+TODO: Wir brauchen hier einige Bilder
