@@ -99,8 +99,8 @@ eingeben.
 Diese ist beispielsweise zehn, wenn das Programm gestartet wird. Stelle sicher, dass der Spieler jedes Mal ein Leben verliert, wenn das Quadrat mit dem Dreieck kollidiert. Stelle sicher, dass „Game Over“ ist, wenn <img src="image014-Leben.png" width="50" />
 auf Null gesunken ist. Entscheide selbst, was passieren wird, wenn es „Game Over“ ist.  
 
-Anstatt Leben zu zählen, kannst du Versuche zählen. Gebt eine Variable <img src="image016-Versuche.png" width="100" />
-ein, die 1 ist wenn das Programm startet. Zähle jedes Mal <img src="image016-Versuche.png" width="100" />
+Anstatt Leben zu zählen, kannst du Versuche zählen. Gebt eine Variable <img src="image016-Versuche.png" width="65" />
+ein, die 1 ist wenn das Programm startet. Zähle jedes Mal <img src="image016-Versuche.png" width="65" />
 hoch, wenn das Spiel erneut beginnt. Zeige an, wie viele Versuche erforderlich waren, bis der Spieler schließlich gewonnen hat! 
 
 - Copyright 2019 Malin Christersson. http://cmc.education/scratch/tasks/geometryDash.php 
