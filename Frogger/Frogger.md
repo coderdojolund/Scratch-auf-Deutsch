@@ -8,14 +8,14 @@ Der Frosch beginnt am unteren Rand des Fensters und das Haus befindet sich am ob
 
 ## Sprites auswählen
 
-Wähle (oder zeichne) ein Spray, das ein Frosch sein wird. Es muss kein Frosch sein.
+Wähle (oder zeichne) eine Figur, das ein Frosch sein wird. Es muss kein Frosch sein.
 
-Wähle (oder zeichne) zwei Sprays, die Hindernisse darstellen. Diese sollten sich hin und her bewegen.
+Wähle (oder zeichne) zwei Figuren, die Hindernisse darstellen. Diese sollten sich hin und her bewegen.
 
 Ändert die Größen so, dass alles passt.
 
 ## Programmiere die Hindernisse
-Geben Sie den folgenden Code für ein Spray ein, das ein Hindernis darstellt.
+Geben Sie den folgenden Code für eine Figur ein, das ein Hindernis darstellt.
 
 <img src="image003.png" width="400" />
 
@@ -33,13 +33,13 @@ Testen Sie Ihr Programm! Speichern Sie Ihr Programm!
 
 Der Frosch sollte erneut starten, wenn er mit dem ersten Hindernis kollidiert oder wenn er mit dem zweiten Hindernis kollidiert. Es gibt einen Block für oder in der Kategorie Operatoren.
 
-Der Frosch muss auch in y-Richtung geführt werden. Geben Sie diesen Code für das Froschspray ein:
+Der Frosch muss auch in y-Richtung geführt werden. Geben Sie diesen Code für das Froschfigur ein:
 
 <img src="image005.png" width="400" />
 
 Testen Sie Ihren Code. Ändern Sie die y-Koordinate so, dass der Frosch von Anfang an gut platziert ist.
 
-Ihre Sprays heißen möglicherweise nicht Dragon and Shark 2, stellen Sie sicher, dass sie richtig sind.
+Ihre Figuren heißen möglicherweise nicht Dragon and Shark 2, stellen Sie sicher, dass sie richtig sind.
 
 Stellen Sie sicher, dass es schwierig genug ist, aber dass es möglich ist, den Frosch nach oben zu lenken, ohne zu kollidieren. Ändern Sie Zeiten und Koordinaten, bis Sie zufrieden sind. Was sollten Sie tun, damit die Hindernisse schneller / langsamer werden? Wie lässt du den Frosch schneller / langsamer fahren?
 
@@ -51,7 +51,7 @@ Sie können auch überprüfen, ob der Frosch hoch genug ist, indem Sie feststell
 
 <img src="klein-gross.png" width="100%" />
 
-Fügen Sie den Code hinzu: 
+Fügen Sie den Code hinzu:
 
 <img src="image017.png" width="400" />
 
@@ -73,6 +73,7 @@ Entscheide selbst, was passieren soll, wenn das Leben gleich 0 ist.
 ## TO DO
 - [x] Copyright unten
 - [ ] Format der Bilder
+- [ ] Sie >> Du
 
 [Copyright 2019 Malin Christersson](http://cmc.education/scratch/tasks/frogger.php)
 • Übersetzung 2021: Johannes Döllinger, Robert Storlind
