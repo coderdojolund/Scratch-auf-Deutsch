@@ -6,7 +6,7 @@
 
 [![Flappy Bird](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/FlappyBird/flappy.png)](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/FlappyBird/FlappyBird.md)
 
-* Frogger: Übersetzung aus dem [Schwedischen Original](http://cmc.education/scratch/tasks/flappyBird.php) läuft
+[![Frogger](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/Frogger/Frogger.png)](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/Frogger/Frogger.md)
 
 * Einfache Sprünge: Übersetzung aus dem [Schwedischen Original](http://cmc.education/scratch/tasks/easyJump.php) läuft
 
