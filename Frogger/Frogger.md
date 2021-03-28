@@ -2,7 +2,7 @@
 
 Frogger ist ein klassisches Spiel, bei dem ein Frosch Hindernisse überwinden muss, um nach Hause zu kommen. Hindernisse können Baumstämme sein, die in einem Fluss schwimmen, Autos, die auf einer Straße fahren, Alligatoren, die im Wasser schwimmen, oder alles andere.
 
-image001.png
+<img src="image001.png" width="400" />
 
 Der Frosch beginnt am unteren Rand des Fensters und das Haus befindet sich am oberen Rand des Fensters. Hindernisse bewegen sich über das Fenster hin und her. Der Spieler muss das gute Zuhause steuern und Hindernissen ausweichen.
 
@@ -16,8 +16,8 @@ Wähle (oder zeichne) zwei Sprays, die Hindernisse darstellen. Diese sollten sic
 
 ## Programmiere die Hindernisse
 Geben Sie den folgenden Code für ein Spray ein, das ein Hindernis darstellt.
-image003.png
 
+<img src="image003.png" width="400" />
 
 Ändern Sie `x` und `y` so, dass das Hindernis zwischen der rechten und der linken Seite gleitet.
 
@@ -35,7 +35,7 @@ Der Frosch sollte erneut starten, wenn er mit dem ersten Hindernis kollidiert od
 
 Der Frosch muss auch in y-Richtung geführt werden. Geben Sie diesen Code für das Froschspray ein:
 
-image005.png 
+<img src="image005.png" width="400" />
 
 Testen Sie Ihren Code. Ändern Sie die y-Koordinate so, dass der Frosch von Anfang an gut platziert ist.
 
@@ -49,12 +49,11 @@ Sie können ein Haus in einer speziellen Farbe auf den Hintergrund zeichnen und 
 
 Sie können auch überprüfen, ob der Frosch hoch genug ist, indem Sie feststellen, ob die y-Koordinate groß genug ist. Sie können einen Block verwenden, um festzustellen, ob die y-Koordinate groß genug ist.
 
-klein-gross.png 
+<img src="klein-gross.png" width="100%" />
 
 Fügen Sie den Code hinzu: 
 
-image017.png
-  
+<img src="image017.png" width="400" />
 
 Testen Sie Ihr Programm und entscheiden Sie, welche y-Koordinate als "home" gezählt werden soll.
 
@@ -66,7 +65,7 @@ Sie können einen variablen Lebensunterhalt verdienen. Bringen Sie das Leben auf
 
 Sehen Sie, ob das Leben in der Ewigkeitsschleife Null wird.
 
-image019.png  
+<img src="image019.png" width="400" />
 
 Entscheide selbst, was passieren soll, wenn das Leben gleich 0 ist.
 
