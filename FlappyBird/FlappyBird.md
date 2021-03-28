@@ -6,7 +6,7 @@ Flappy Bird ist ein Spiel, das nicht mehr hergestellt wurde, weil die Entwickler
 
 ## Mach die Rohre
 
-Zeichnen Sie ein Spray für die Rohre und stellen Sie sicher, dass das Spray mehrere Abdeckungen hat, so dass sich das Loch an verschiedenen Stellen befindet.
+Zeichnen Sie eine Figur für die Rohre und stellen Sie sicher, dass die Figur mehrere Abdeckungen hat, so dass sich das Loch an verschiedenen Stellen befindet.
 
 <img src="image003.png" width="100%" />
 
@@ -21,7 +21,7 @@ Geben Sie den Code ein und testen Sie ihn, damit sich die Rohre von rechts nach 
 
 ## Mach den Vogel
 
-Wählen Sie ein Spray mit zwei Kostümen oder zeichnen Sie Ihr eigenes Spray.
+Wählen Sie eine Figur mit zwei Kostümen oder zeichnen Sie Ihre eigene Figur.
 
 Machen Sie einen variablen <<y-Geschw.png>>, der angibt, wie groß der Schritt sein soll, wenn sich der Computer bewegt. 
 Die 
@@ -63,6 +63,7 @@ Teste dein Programm und stelle sicher, dass es einigermaßen schwierig ist.
 ## TO DO
 - [ ] Copyright unten
 - [ ] Format der Bilder
+- [ ] Sie >> Du
 
 [Copyright 2019 Malin Christersson](http://cmc.education/scratch/tasks/flappyBird.php)
 • Übersetzung 2021: Johannes Döllinger, Robert Storlind
