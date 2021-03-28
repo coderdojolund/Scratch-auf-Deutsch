@@ -64,5 +64,5 @@ Teste dein Programm und stelle sicher, dass es einigermaßen schwierig ist.
 - [ ] Copyright unten
 - [ ] Format der Bilder
 
-Original: http://cmc.education/scratch/tasks/flappyBird.php
-2019 Malin Christersson
+[Copyright 2019 Malin Christersson](http://cmc.education/scratch/tasks/flappyBird.php)
+• Übersetzung 2021: Johannes Döllinger, Robert Storlind
