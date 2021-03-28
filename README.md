@@ -2,7 +2,8 @@
 
 ## Scratch-aufgaben auf Deutsch
 
-* [GeometryDash](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/GeometryDash/GeometryDash.md)
+[![image-text](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/GeometryDash/geometry-dash.png)](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/GeometryDash/GeometryDash.md)
+
 * Flappy Bird: Übersetzung aus dem [schwedischen Original](http://cmc.education/scratch/tasks/frogger.php) läuft
 * Frogger: Übersetzung aus dem [Schwedischen Original](http://cmc.education/scratch/tasks/flappyBird.php) läuft
 
@@ -17,4 +18,5 @@
 * 
 
 ### TODO
-* Wir brauchen hier einige Bilder
+- [x] Wir brauchen hier einige Bilder
+
