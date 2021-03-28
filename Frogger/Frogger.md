@@ -72,8 +72,8 @@ Entscheide selbst, was passieren soll, wenn das Leben gleich 0 ist.
 
 
 ## TO DO
-- [ ] Copyright unten
+- [x] Copyright unten
 - [ ] Format der Bilder
 
-Original: http://cmc.education/scratch/tasks/flappyBird.php
-2019 Malin Christersson
+[Copyright 2019 Malin Christersson](http://cmc.education/scratch/tasks/frogger.php)
+• Übersetzung 2021: Johannes Döllinger, Robert Storlind
