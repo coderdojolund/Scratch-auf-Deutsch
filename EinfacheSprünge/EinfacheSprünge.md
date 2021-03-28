@@ -15,7 +15,7 @@ Der Sprung kann durch diesen Algorithmus beschrieben werden:
 
 Verwende diese Blöcke um den Code zu erstellen.
 
-02-code.png
+<image src="02-code.png"/>
 
 Wenn du eine Figur mit zwei Kostümen wählst, kann es sein, dass die Figur anders aussieht, wenn sie hochgezogen ist.
 
@@ -29,7 +29,7 @@ Eine Variante ist, die Figur rotieren zu lassen, wenn sie oben ist, anstatt zu w
 
 Um wie viel Grad muss sich die Figur drehen, um eine volle Umdrehung zu erreichen? Kannst du es schaffen, dass es sich zwei Umdrehungen dreht?
 
-03-code.png
+<image src="03-code.png"/>
 
 ## Auf und ab in vielen Schritten
 
@@ -42,7 +42,7 @@ Du kannst die Figur mehrere Schritte nach oben und dann mehrere Schritte nach un
 
 Um mehrere Schritte zu machen, verwende den Wiederholungsblock.
 
-04-code.png
+<image src="04-code.png"/>
 
 ## Mach eine Volte
 Anstatt nur zu rotieren, wenn die Figur oben ist, kannst du sie die ganze Zeit rotieren lassen. Dann sieht es eher nach einem Volt aus.
@@ -56,5 +56,5 @@ Finde selbst heraus, wie man diesen Code macht.
 ## Mach ein Spiel mit Sprüngen
 Es gibt viele Spiele, die einfache Sprünge beinhalten. Erstelle dein eigenes Spiel, in dem ein Charakter springen kann. Ein Beispiel findest du auf der Geometry Dash Seite
 
- 
-COPYRIGHT
+[Copyright 2019 Malin Christersson](http://cmc.education/scratch/tasks/flappyBird.php)
+• Übersetzung 2021: Johannes Döllinger, Robert Storlind
