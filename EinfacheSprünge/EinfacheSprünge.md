@@ -2,7 +2,7 @@
 
 Mache Variationen von einfachen Sprüngen ohne die Schwerkraft zu modellieren.
 
-01-jumping.png
+<img src="easyJump482.png" width="500"/>
 
 Der Charakter sollte in der Lage sein, mit den Pfeiltasten nach rechts/links zu gehen und mit der Leertaste zu springen.
 
