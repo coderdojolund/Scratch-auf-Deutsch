@@ -1,3 +1,5 @@
+[<< Zum Inhalt](https://github.com/coderdojolund/Scratch-auf-Deutsch)
+
 # Einfache Sprünge
 
 Mache Variationen von einfachen Sprüngen ohne die Schwerkraft zu modellieren.
@@ -54,7 +56,9 @@ Anstatt nur zu rotieren, wenn die Figur oben ist, kannst du sie die ganze Zeit r
 Finde selbst heraus, wie man diesen Code macht.
 
 ## Mach ein Spiel mit Sprüngen
-Es gibt viele Spiele, die einfache Sprünge beinhalten. Erstelle dein eigenes Spiel, in dem ein Charakter springen kann. Ein Beispiel findest du auf der [Geometry Dash-Seite](https://github.com/coderdojolund/Scratch-auf-Deutsch/tree/main/GeometryDash)
+Es gibt viele Spiele, die einfache Sprünge beinhalten. Erstelle dein eigenes Spiel, in dem ein Charakter springen kann. Ein Beispiel findest du auf der [Geometry Dash-Seite](https://github.com/coderdojolund/Scratch-auf-Deutsch/tree/main/GeometryDash).
+
+[<< Zum Inhalt](https://github.com/coderdojolund/Scratch-auf-Deutsch)
 
 [Copyright 2019 Malin Christersson](http://cmc.education/scratch/tasks/flappyBird.php)
 • Übersetzung 2021: Johannes Döllinger, Robert Storlind
