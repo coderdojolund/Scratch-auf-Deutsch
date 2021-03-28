@@ -2,11 +2,12 @@
 
 ## Scratch-aufgaben auf Deutsch
 
-[![Geometry Dash](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/GeometryDash/geometry-dash.png)](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/GeometryDash/GeometryDash.md)
-
 [![Flappy Bird](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/FlappyBird/flappy.png)](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/FlappyBird/FlappyBird.md)
 
 [![Frogger](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/Frogger/Frogger.png)](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/Frogger/Frogger.md)
+
+[![Geometry Dash](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/GeometryDash/geometry-dash.png)](https://github.com/coderdojolund/Scratch-auf-Deutsch/blob/main/GeometryDash/GeometryDash.md)
+
 
 * Einfache Sprünge: Übersetzung aus dem [Schwedischen Original](http://cmc.education/scratch/tasks/easyJump.php) läuft
 
